@@ -1,0 +1,9 @@
+gensim
+matplotlib
+networkx
+nltk
+pyLDAvis
+scipy
+seaborn
+textblob
+wordcloud
